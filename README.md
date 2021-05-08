@@ -1,2 +1,2 @@
-# marketing-agency
-A reactjs website for Marketing Agency
+# shopping-cart
+A reactjs website for Shopping Cart for E-Commerce website
