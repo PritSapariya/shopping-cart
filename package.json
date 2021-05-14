@@ -7,7 +7,9 @@
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js",
     "client": "npm start --prefix frontend",
-    "dev": "cocurrently \"npm run server\" \"npm run client\""
+    "dev": "cocurrently \"npm run server\" \"npm run client\"",
+    "data:import": "node backend/seederScript"
+    
   },
   "repository": {
     "type": "git",
